@@ -1,0 +1,15 @@
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\bin\Debug\net6.0\calculadora-simples.exe
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\bin\Debug\net6.0\calculadora-simples.deps.json
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\bin\Debug\net6.0\calculadora-simples.runtimeconfig.json
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\bin\Debug\net6.0\calculadora-simples.dll
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\bin\Debug\net6.0\calculadora-simples.pdb
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\obj\Debug\net6.0\calculadora-simples.csproj.AssemblyReference.cache
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\obj\Debug\net6.0\calculadora-simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\obj\Debug\net6.0\calculadora-simples.AssemblyInfoInputs.cache
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\obj\Debug\net6.0\calculadora-simples.AssemblyInfo.cs
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\obj\Debug\net6.0\calculadora-simples.csproj.CoreCompileInputs.cache
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\obj\Debug\net6.0\calculadora-simples.dll
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\obj\Debug\net6.0\refint\calculadora-simples.dll
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\obj\Debug\net6.0\calculadora-simples.pdb
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\obj\Debug\net6.0\calculadora-simples.genruntimeconfig.cache
+C:\Users\Saulo\workspace\calculadora-simples\calculadora-simples\obj\Debug\net6.0\ref\calculadora-simples.dll
